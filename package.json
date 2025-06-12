@@ -1,0 +1,23 @@
+{
+  "name": "first_mern_backend_web-app",
+  "version": "1.0.0",
+  "description": "This is my first MERN stack Back end Web Application its just a Basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansarahmad264/First_MERN_Backend_WebApp.git"
+  },
+  "keywords": [
+    "Node",
+    "Backend"
+  ],
+  "author": "Ansar Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansarahmad264/First_MERN_Backend_WebApp/issues"
+  },
+  "homepage": "https://github.com/ansarahmad264/First_MERN_Backend_WebApp#readme"
+}
